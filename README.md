@@ -16,7 +16,7 @@ I'm currently learning front-end development with a strong interest in creating 
 
 ## Live Link (optional)
 If hosted with GitHub Pages:  
-👉 [Click here to view the site](https://yourusername.github.io/your-repo-name/)
+👉 [Click here to view the site](https://github.com/Balla-Rakshitha/My-practice---site-.git)
 
 ## Contact
 - Email: rakshitha12@email.com  
