@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.5">
+  <title>Rakshitha's Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Hi, I'm Rakshitha 👋</h1>
+    <p> Passionate about Front-End Developer</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I’m a 3rd-year Computer Science Engineering student.I’m currently learning HTML, CSS, JavaScript, React, and Java.</p>
+  </section>
+
+  <section class="contact">
+    <h2>Connect with Me</h2>
+    <ul>
+      <li>Email: rakshitha12@email.com</li>
+      <li><a href="https://github.com/balla Rakshitha" target="_blank">GitHub</a></li>
+      <li><a href="https://linkedin.com/in/Balla Rakshitha" target="_blank">LinkedIn</a></li>
+    </ul>
+  </section>
+</body>
+</html>
